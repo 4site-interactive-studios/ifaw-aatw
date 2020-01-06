@@ -33,7 +33,7 @@ export class AgeCheck {
         markup = `
       <div class="age-container">
           <p id="ageMessage">
-            To begin, please enter Your Date of Birth:
+            To begin, please enter the guardian's date of birth<br> or the youth's date of birth if 18 years old.
           </p>
           <div id="age-form">
             <div class="age-dd">
